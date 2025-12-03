@@ -8,6 +8,7 @@ The goal is to show how an ISP delivers internet from backbone routers to region
 This project can be used for networking assignments, practical learning, or as a reference for CCNA-level ISP architecture.
 
 Features of This Project
+
 ✔ ISP Backbone Router Setup
 ✔ Regional Distribution Network
 ✔ Core, Distribution & Access Layer Design
